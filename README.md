@@ -6,7 +6,7 @@ This repository contains a classifier for the MNIST dataset, which consists of h
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
+
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -47,7 +47,28 @@ To train and evaluate the MNIST classifier, use the provided Jupyter Notebook:
 
 2. Open the `mnist_classifier.ipynb` notebook.
 
-3. Follow the instructions in the notebook to train and evaluate the classifier.
+
+## Contributing
+
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any questions or suggestions, you can reach out to:
+
+- GitHub: [AdiXgit](https://github.com/AdiXgit)
+
+4. Follow the instructions in the notebook to train and evaluate the classifier.
 
 ## Project Structure
 
