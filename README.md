@@ -70,6 +70,6 @@ For any questions or suggestions, you can reach out to:
 
 - GitHub: [AdiXgit](https://github.com/AdiXgit)
 
-4. Follow the instructions in the notebook to train and evaluate the classifier.
+
 
 
