@@ -17,12 +17,12 @@ To get started with the MNIST classifier, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AdiXgit/mnsit_classifier.git
+    git clone https://github.com/AdiXgit/mnist_classifier.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd mnsit_classifier
+    cd mnist_classifier
     ```
 
 3. Create a virtual environment and activate it:
