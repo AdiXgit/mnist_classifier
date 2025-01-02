@@ -47,6 +47,8 @@ To train and evaluate the MNIST classifier, use the provided Jupyter Notebook:
 
 2. Open the `mnist_classifier.ipynb` notebook.
 
+3. Follow the instructions in the notebook to train and evaluate the classifier.
+
 
 ## Contributing
 
@@ -70,6 +72,4 @@ For any questions or suggestions, you can reach out to:
 
 4. Follow the instructions in the notebook to train and evaluate the classifier.
 
-## Project Structure
 
-The repository structure is as follows:
